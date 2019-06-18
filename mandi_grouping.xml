@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<detector-grouping>
+<group name="bank1"> <ids val="0-65535"/> </group>
+<group name="bank2"> <ids val="65536-131071"/> </group>
+<group name="bank3"> <ids val="131072-196607"/> </group>
+<group name="bank5"> <ids val="196608-262143"/> </group>
+<group name="bank7"> <ids val="262144-327679"/> </group>
+<group name="bank8"> <ids val="327680-393215"/> </group>
+<group name="bank11"> <ids val="393216-458751"/> </group>
+<group name="bank12"> <ids val="458752-524287"/> </group>
+<group name="bank13"> <ids val="524288-589823"/> </group>
+<group name="bank17"> <ids val="589824-655359"/> </group>
+<group name="bank18"> <ids val="655360-720895"/> </group>
+<group name="bank19"> <ids val="720896-786431"/> </group>
+<group name="bank20"> <ids val="786432-851967"/> </group>
+<group name="bank21"> <ids val="851968-917503"/> </group>
+<group name="bank22"> <ids val="917504-983039"/> </group>
+<group name="bank23"> <ids val="983040-1048575"/> </group>
+<group name="bank26"> <ids val="1048576-1114111"/> </group>
+<group name="bank27"> <ids val="1114112-1179647"/> </group>
+<group name="bank28"> <ids val="1179648-1245183"/> </group>
+<group name="bank29"> <ids val="1245184-1310719"/> </group>
+<group name="bank31"> <ids val="1310720-1376255"/> </group>
+<group name="bank32"> <ids val="1376256-1441791"/> </group>
+<group name="bank33"> <ids val="1441792-1507327"/> </group>
+<group name="bank37"> <ids val="1507328-1572863"/> </group>
+<group name="bank39"> <ids val="1572864-1638399"/> </group>
+<group name="bank40"> <ids val="1638400-1703935"/> </group>
+<group name="bank41"> <ids val="1703936-1769471"/> </group>
+<group name="bank42"> <ids val="1769472-1835007"/> </group>
+<group name="bank43"> <ids val="1835008-1900543"/> </group>
+<group name="bank46"> <ids val="1900544-1966079"/> </group>
+<group name="bank47"> <ids val="1966080-2031615"/> </group>
+<group name="bank48"> <ids val="2031616-2097151"/> </group>
+<group name="bank49"> <ids val="2097152-2162687"/> </group>
+<group name="bank50"> <ids val="2162688-2228223"/> </group>
+<group name="bank51"> <ids val="2228224-2293759"/> </group>
+<group name="bank52"> <ids val="2293760-2359295"/> </group>
+<group name="bank53"> <ids val="2359296-2424831"/> </group>
+<group name="bank57"> <ids val="2424832-2490367"/> </group>
+<group name="bank58"> <ids val="2490368-2555903"/> </group>
+<group name="bank59"> <ids val="2555904-2621439"/> </group>
+</detector-grouping>
